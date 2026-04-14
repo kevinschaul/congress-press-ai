@@ -18,5 +18,10 @@ test:
 # Fetch AI keyword data; defaults to current month. e.g.: just fetch 2026-01 2026-02
 fetch *months:
     python scripts/check_keywords.py $([ -z "{{months}}" ] && date +%Y-%m || echo "{{months}}")
+    just rss
+
+# Generate RSS feed from current ai-mentions.jsonl
+rss:
+    python scripts/generate_rss.py
 
 

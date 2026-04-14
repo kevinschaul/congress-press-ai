@@ -16,8 +16,8 @@ export default {
   //   }
   // ],
 
-  // Content to add to the head of the page, e.g. for a favicon:
-  // head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',
+  // RSS feed autodiscovery
+  head: '<link rel="alternate" type="application/rss+xml" title="AI Mentions in Congressional Press Releases" href="https://kschaul.com/congress-press-ai/feed.xml">',
 
   // The path to the source root.
   root: "observable",

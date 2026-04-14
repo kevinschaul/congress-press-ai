@@ -4,7 +4,7 @@ title: AI Mentions Explorer
 
 # AI Mentions in Congressional Press Releases
 
-Press releases from members of Congress mentioning **AI**, **artificial intelligence**, or **data center**. Data via [congress-press](https://thescoop.org/congress-press/).
+Press releases from members of Congress mentioning **AI**, **artificial intelligence**, or **data center**. Data via [congress-press](https://thescoop.org/congress-press/). [RSS feed](https://kschaul.com/congress-press-ai/feed.xml)
 
 ```js
 const rawText = await FileAttachment("data/clean/ai-mentions.jsonl").text()
