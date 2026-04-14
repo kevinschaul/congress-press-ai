@@ -1,0 +1,9 @@
+node_modules/
+/observable/.observablehq/cache
+/observable/dist
+/data/build
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+feed.xml

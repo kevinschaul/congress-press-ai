@@ -1,0 +1,734 @@
+{
+  "https://scholten.house.gov/media/press-releases/scholten-announces-new-congressional-dialogue-series-launch-2026": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:32:08.321557+00:00"
+  },
+  "https://www.hawley.senate.gov/2025-recap-hawley-delivers-record-legislative-and-casework-wins/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:32:45.419883+00:00"
+  },
+  "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-house-and-senate-negotiated-commerce-justice-science_related-agencies-fy-2026-appropriations-bill": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:32:50.159785+00:00"
+  },
+  "https://www.warnock.senate.gov/newsroom/press-releases/warnock-markey-push-trump-admin-to-shield-americans-from-data-center-energy-costs/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:32:56.762327+00:00"
+  },
+  "https://hankjohnson.house.gov/media-center/press-releases/congressman-johnsons-statement-fifth-anniversary-january-6th-capitol": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:33:01.997385+00:00"
+  },
+  "https://hernandez.house.gov/media/press-releases/comisionado-residente-anuncia-2-millones-para-proyecto-de-inteligencia": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:33:09.624646+00:00"
+  },
+  "https://barragan.house.gov/2026/01/07/reps-barragan-obernolte-introduce-bipartisan-legislation-to-improve-public-understanding-and-trust-in-artificial-intelligence/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:33:16.008756+00:00"
+  },
+  "https://khanna.house.gov/media/press-releases/release-rep-ro-khanna-appointed-ranking-member-house-select-committee-china": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:33:22.622575+00:00"
+  },
+  "https://mcbride.house.gov/media/press-releases/mcbride-releases-first-year-review-highlighting-bipartisan-wins-and-results": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:33:30.246402+00:00"
+  },
+  "https://www.boozman.senate.gov/public/index.cfm/press-releases?ID=8393CFFF-24BF-4B50-BE12-E53C0CCC48C8": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:33:37.423856+00:00"
+  },
+  "https://www.welch.senate.gov/welch-joins-legislation-to-block-trumps-illegal-executive-order-undermining-ai-state-safeguards/": {
+    "sentiment": "mixed",
+    "classified_at": "2026-04-14T18:33:50.523653+00:00"
+  },
+  "https://www.young.senate.gov/newsroom/press-releases/young-cantwell-introduce-bill-to-help-small-businesses-succeed-in-digital-economy/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:33:56.621301+00:00"
+  },
+  "https://barrett.house.gov/media/press-releases/barrett-announces-winners-2025-congressional-app-challenge": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:34:04.450569+00:00"
+  },
+  "https://fedorchak.house.gov/media/press-releases/fedorchak-votes-fund-key-fy26-energy-public-safety-and-national-security": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:34:09.545935+00:00"
+  },
+  "https://fong.house.gov/media/press-releases/congressman-fong-votes-advance-fy2026-appropriations-bills-strengthen-public": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:34:16.939218+00:00"
+  },
+  "https://laurellee.house.gov/media/press-releases/congresswoman-laurel-lee-delivers-critical-investments-floridas-15th-district": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:34:23.519971+00:00"
+  },
+  "https://mannion.house.gov/media/press-releases/representative-mannion-ny-22-introduces-bipartisan-bicameral-immersive": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:34:28.452210+00:00"
+  },
+  "https://menendez.house.gov/media/press-releases/-menendez-casar-introduce-groundbreaking-legislation-to-protect-americans-from-financial-and-environmental-impacts-of-ai-data-centers": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:34:32.485610+00:00"
+  },
+  "https://moylan.house.gov/media/press-releases/congressman-moylan-announces-2025-congressional-app-challenge-winners": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:34:41.723490+00:00"
+  },
+  "https://newhouse.house.gov/media-center/press-releases/newhouse-votes-american-energy-dominance-increased-hanford-funding": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:34:47.558772+00:00"
+  },
+  "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5838": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:34:55.788586+00:00"
+  },
+  "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-lower-energy-costs-for-arkansans": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:34:59.186960+00:00"
+  },
+  "https://www.lujan.senate.gov/newsroom/press-releases/lujan-cantwell-young-colleagues-introduce-bipartisan-national-quantum-initiative-reauthorization-act/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:35:03.700343+00:00"
+  },
+  "https://www.young.senate.gov/newsroom/press-releases/young-cantwell-introduce-national-quantum-initiative-reauthorization-act-2/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:35:08.187575+00:00"
+  },
+  "https://olszewski.house.gov/media/press-releases/new-dems-release-workforce-education-agenda-empower-next-generation": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:35:13.681096+00:00"
+  },
+  "https://strong.house.gov/media/press-releases/house-advances-strongs-12-million-north-alabama-public-safety-and": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:35:17.567744+00:00"
+  },
+  "https://www.blackburn.senate.gov/2026/1/general/blackburn-highlights-2025-accomplishments-for-tennesseans": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:35:25.994805+00:00"
+  },
+  "https://www.budd.senate.gov/2026/01/09/budd-joins-bipartisan-bill-to-maintain-u-s-leadership-in-global-race-to-advance-quantum-computing/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:35:32.425165+00:00"
+  },
+  "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-wicker-introduce-the-success-for-bead-act": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:35:39.645075+00:00"
+  },
+  "https://www.daines.senate.gov/2026/01/09/in-the-news-daines-leads-5-2b-quantum-computing-funding-redux/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:35:43.811357+00:00"
+  },
+  "https://www.lujan.senate.gov/newsroom/press-releases/lujan-wyden-markey-urge-apple-and-google-to-remove-x-and-grok-from-app-stores-following-grok-generating-illegal-sexual-images-at-scale/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:35:49.045925+00:00"
+  },
+  "https://www.wyden.senate.gov/news/press-releases/wyden-markey-and-lujan-urge-apple-and-google-to-remove-x-and-grok-from-app-stores-following-grok-generating-illegal-sexual-images-at-scale": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:35:53.697963+00:00"
+  },
+  "https://mciver.house.gov/media/press-releases/mciver-announces-kora-app-as-winner-of-nj-10-congressional-app-challenge": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:35:57.233431+00:00"
+  },
+  "https://www.grassley.senate.gov/news/news-releases/grassley-report-details-unitedhealths-record-of-appearing-to-game-the-medicare-advantage-system-turning-risk-adjustment-into-its-own-business": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:36:04.873373+00:00"
+  },
+  "https://www.hydesmith.senate.gov/two-south-mississippi-students-selected-us-senate-youth-program": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:36:08.923808+00:00"
+  },
+  "https://www.lujan.senate.gov/newsroom/press-releases/icymi-lujan-wyden-markey-urge-apple-and-google-to-remove-x-and-grok-from-app-stores-following-grok-generating-illegal-sexual-images-at-scale/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:36:13.063527+00:00"
+  },
+  "https://burlison.house.gov/media/press-releases/house-conservatives-unite-unveil-reconciliation-20-framework-make-american": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:36:20.743331+00:00"
+  },
+  "https://www.cotton.senate.gov/news/press-releases/cotton-senators-to-wright-ban-chinese-nationals-from-american-laboratories": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:36:27.078981+00:00"
+  },
+  "https://www.slotkin.senate.gov/2026/01/13/what-they-are-saying-slotkins-bill-to-declare-national-housing-emergency-and-build-4-million-homes/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:36:32.011593+00:00"
+  },
+  "https://www.sullivan.senate.gov/newsroom/press-releases/icymi-sullivan-highlights-his-bycatch-reduction-bill-continued-ak-lng-progress-on-kdll-radio": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:36:37.368218+00:00"
+  },
+  "https://www.young.senate.gov/newsroom/press-releases/young-colleagues-urge-action-on-chinese-nationals-accessing-american-research-laboratories/": {
+    "sentiment": "mixed",
+    "classified_at": "2026-04-14T18:36:55.173618+00:00"
+  },
+  "https://amo.house.gov/press-release/amo-meeks-challenge-trump-secretary-lutnick-plan-to-sell-advanced-ai-chips-to-china": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:37:06.617765+00:00"
+  },
+  "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415246": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:37:12.179536+00:00"
+  },
+  "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4246": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:37:17.889058+00:00"
+  },
+  "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4952": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:37:25.767850+00:00"
+  },
+  "https://levin.house.gov/media/press-releases/rep-mike-levin-introduces-new-bill-to-stop-data-centers-from-driving-up-electricity-prices-for-consumers": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:37:35.786196+00:00"
+  },
+  "https://mccaul.house.gov/media-center/press-releases/mccaul-discusses-importance-keeping-american-ai-out-ccps-hands-hfac": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:37:46.578095+00:00"
+  },
+  "https://nunn.house.gov/2026/01/14/nunn-secures-major-wins-for-iowa-small-businesses-and-scam-victims-in-fy26-funding-bill/": {
+    "sentiment": "mixed",
+    "classified_at": "2026-04-14T18:38:00.135730+00:00"
+  },
+  "https://www.blackburn.senate.gov/2026/1/icymi-in-the-tennessean-blackburn-makes-case-for-reauthorization-of-national-quantum-initiative-act": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:38:06.934435+00:00"
+  },
+  "https://www.schatz.senate.gov/news/press-releases/schatz-trump-is-intentionally-raising-the-price-of-electricity": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:38:15.435316+00:00"
+  },
+  "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415248": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:38:21.645862+00:00"
+  },
+  "https://courtney.house.gov/media-center/press-releases/courtney-presses-ai-industry-accountability-amid-avalanche-child": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:38:25.777221+00:00"
+  },
+  "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=390863": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:38:31.080752+00:00"
+  },
+  "https://hernandez.house.gov/media/press-releases/comisionado-residente-presenta-legislacion-para-estudiar-el-uso-responsable-de": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:38:35.675341+00:00"
+  },
+  "https://huffman.house.gov/media-center/press-releases/ranking-members-demand-trump-admin-answer-for-killing-jobs-cutting-off-affordable-energy-with-arbitrary-halt-to-offshore-wind-projects": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:38:41.998828+00:00"
+  },
+  "https://khanna.house.gov/media/press-releases/release-rep-ro-khanna-introduces-resolution-protect-creators-modern-platform": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:38:53.819927+00:00"
+  },
+  "https://mcbride.house.gov/media/press-releases/rep-mcbride-presses-trump-administration-data-center-impacts-secures": {
+    "sentiment": "mixed",
+    "classified_at": "2026-04-14T18:38:58.995389+00:00"
+  },
+  "https://min.house.gov/media/press-releases/icymi-guardian-reps-dave-min-claudia-tenney-urge-trump-administration-assist": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:39:04.952387+00:00"
+  },
+  "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-sen-markey-reintroduce-legislation-to-mandate-civil-rights-offices-in-federal-agencies-that-manage-artificial-intelligence": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:39:14.221843+00:00"
+  },
+  "https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-colleagues-demand-big-tech-remove-sexualized-ai-generated-images": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:39:19.989719+00:00"
+  },
+  "https://www.collins.senate.gov/newsroom/congress-approves-62-million-for-maine-high-performance-computing-hub-secured-by-senator-collins": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:39:26.640157+00:00"
+  },
+  "https://www.cramer.senate.gov/news/press-releases/senate-passes-package-of-three-fiscal-year-2026-appropriations-bills": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:39:32.073712+00:00"
+  },
+  "https://www.klobuchar.senate.gov/public/index.cfm/news-releases?ID=71C99BAF-BCBE-478A-92FA-83DCB08EF5EA": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:39:36.330267+00:00"
+  },
+  "https://www.mcconnell.senate.gov/public/index.cfm/pressreleases?ID=ABF3C12B-026E-4175-9066-687CFA2195D0": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:39:41.889389+00:00"
+  },
+  "https://www.moran.senate.gov/public/index.cfm/news-releases?ID=2A020816-A20E-4602-BD47-B46FC145E4E2": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:39:49.351725+00:00"
+  },
+  "https://www.murray.senate.gov/passed-murray-secures-over-5-billion-for-wa-priorities-in-three-bill-funding-package-historic-funding-for-hanford-190-million-for-howard-hanson-dam-rejecting-trump-cuts/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:39:54.202392+00:00"
+  },
+  "https://www.peters.senate.gov/newsroom/press-releases/senate-passes-bipartisan-funding-bill-with-peters-led-provisions-to-strengthen-michigan-manufacturing-public-safety-and-great-lakes-protections": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:40:02.796886+00:00"
+  },
+  "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:40:10.737187+00:00"
+  },
+  "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-senate-passage-of-commerce-justice-science-and-related-agencies-fy-2026-appropriations-bill": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:40:17.206367+00:00"
+  },
+  "https://buchanan.house.gov/2026/1/buchanan-recognizes-local-student-innovators-for-app-protecting-seniors-health": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:40:23.530561+00:00"
+  },
+  "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415250": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:40:34.544377+00:00"
+  },
+  "https://hankjohnson.house.gov/media-center/press-releases/congressman-johnson-leads-dem-push-protect-workers-deadly-silicosis": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:40:41.955467+00:00"
+  },
+  "https://randall.house.gov/media/press-releases/randall-minnesota-shadow-hearing-using-ice-agents-kill-people-streets-fascism": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:40:48.134656+00:00"
+  },
+  "https://stevens.house.gov/media/press-releases/science-committee-hearing-ranking-democrat-haley-stevens-stands-research-and": {
+    "sentiment": "mixed",
+    "classified_at": "2026-04-14T18:40:59.659741+00:00"
+  },
+  "https://www.gillibrand.senate.gov/news/press/release/gillibrand-colleagues-demand-tech-giants-take-down-sexualized-ai-images-protect-minors/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:41:37.079201+00:00"
+  },
+  "https://www.heinrich.senate.gov/newsroom/press-releases/ranking-members-heinrich-huffman-smith-pallone-demand-answers-from-trump-administration-for-killing-jobs-and-increasing-energy-costs-by-halting-clean-energy-projects": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:41:44.595167+00:00"
+  },
+  "https://www.murray.senate.gov/murray-tours-uws-ai-research-center-after-securing-10-million-for-computing-data-infrastructure-to-advance-cutting-edge-ai-research/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:41:47.836364+00:00"
+  },
+  "https://www.schumer.senate.gov/newsroom/press-releases/schumer-a-historic-moment-for-upstate-ny-and-america-after-years-of-advocacy-schumer-celebrates-microns-groundbreaking-for-transformative-100-billion-investment-building-the-most-advanced-memory-chip-fab-in-the-world-in-syracuse_bringing-tens-of-thousands-of-good-paying-jobs-to-upstate-ny": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:41:52.362844+00:00"
+  },
+  "https://www.warnock.senate.gov/newsroom/press-releases/warnock-secures-50m-to-address-growing-energy-and-water-demands-from-data-centers/": {
+    "sentiment": "mixed",
+    "classified_at": "2026-04-14T18:42:06.839455+00:00"
+  },
+  "https://downing.house.gov/media/press-releases/downings-ai-wise-act-passes-house": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:42:10.339582+00:00"
+  },
+  "https://scholten.house.gov/media/press-releases/rep-scholtens-bipartisan-ai-bills-supporting-small-businesses-pass-house": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:42:13.465136+00:00"
+  },
+  "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-pushes-sba-alarming-request-sensitive-information-small": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:42:20.283638+00:00"
+  },
+  "https://www.collins.senate.gov/newsroom/congress-approves-51-million-for-umaine-system-secured-by-senator-collins": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:42:28.392623+00:00"
+  },
+  "https://www.collins.senate.gov/newsroom/senator-collins-secures-45-million-for-landmark-umaine-health-and-life-sciences-complex": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:42:34.472351+00:00"
+  },
+  "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-advances-legislation-to-combat-nonconsensual-sexually-explicit-deepfakes": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:42:40.895198+00:00"
+  },
+  "https://www.peters.senate.gov/newsroom/press-releases/senate-passes-bipartisan-funding-bill-with-peters-led-wins-to-strengthen-michigans-infrastructure-protect-great-lakes-boost-clean-energy-production": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:42:45.671325+00:00"
+  },
+  "https://www.schatz.senate.gov/news/press-releases/schatz-tens-of-millions-in-new-federal-funding-heading-to-hawaii-in-appropriations-deal": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:42:51.095131+00:00"
+  },
+  "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:42:56.402287+00:00"
+  },
+  "https://dean.house.gov/2026/1/dean-klobuchar-and-salazar-demand-doj-investigation-into-grok-s-sexually-explicit-ai-generated-images": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:42:58.993935+00:00"
+  },
+  "https://foushee.house.gov/media/press-releases/reps-foushee-nunn-introduce-bipartisan-legislation-to-expand-participation-in-ai-education-research-and-workforce": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:43:02.571244+00:00"
+  },
+  "https://nunn.house.gov/2026/01/21/nunn-introduces-bipartisan-bill-to-broaden-ai-research-and-workforce-pipeline/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:43:06.288100+00:00"
+  },
+  "https://www.reed.senate.gov/news/releases/reed-says-trumps-tariffs-are-making-an-economic-mess-for-us-consumers-and-businesses-vows-bipartisan-action-to-block-trumps-threats-against-us-allies": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:43:12.511861+00:00"
+  },
+  "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405121": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:43:17.288928+00:00"
+  },
+  "https://cole.house.gov/media/press-releases/cole-votes-favor-defense-labor-health-and-human-services-education": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:43:22.715917+00:00"
+  },
+  "https://dean.house.gov/2026/1/ean-moran-introduce-bipartisan-bill-to-protect-creators-from-unauthorized-ai-training": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:43:29.943991+00:00"
+  },
+  "https://fong.house.gov/media/press-releases/congressman-fong-secures-395-million-critical-defense-and-infrastructure": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:43:37.276958+00:00"
+  },
+  "https://gabeevans.house.gov/media/press-releases/what-they-are-saying-rep-evans-fire-act": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:43:43.171950+00:00"
+  },
+  "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2583": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:43:48.819255+00:00"
+  },
+  "https://robinkelly.house.gov/media-center/press-releases/health-insurance-ceo-cant-commit-safe-ai-practices-congressional": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:43:51.920872+00:00"
+  },
+  "https://www.blumenthal.senate.gov/newsroom/press/release/cuts-cover-ups-and-chaos-blumenthal-releases-report-exposing-harm-of-the-trump-administrations-ongoing-assault-on-veterans": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:43:57.673470+00:00"
+  },
+  "https://www.capito.senate.gov/news/press-releases/icymi-capito-visits-north-central-wv": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:44:04.189287+00:00"
+  },
+  "https://www.murkowski.senate.gov/press/release/senator-murkowski-and-colleagues-lead-on-legislation-to-bolster-hydropower": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:44:09.595896+00:00"
+  },
+  "https://www.warren.senate.gov/newsroom/press-releases/warren-senators-secure-new-commitments-from-big-tech-on-electricity-costs-but-companies-dodge-accountability-for-hiking-families-utility-bills": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:44:16.082621+00:00"
+  },
+  "https://www.welch.senate.gov/welch-joins-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:44:21.434702+00:00"
+  },
+  "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-legislation-to-identify-redundant-and-outdated-rules-in-federal-regulations": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:44:24.929617+00:00"
+  },
+  "https://chu.house.gov/media-center/press-releases/rep-chu-announces-winners-2025-congressional-app-challenge": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:44:30.618260+00:00"
+  },
+  "https://chu.house.gov/media-center/press-releases/reps-chu-meng-goldman-and-vargas-introduce-bill-protect-multilingual": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:44:35.510651+00:00"
+  },
+  "https://foushee.house.gov/media/press-releases/house-democrat-commission-on-ai-co-chairs-foushee-lieu-lead-roundtable-at-north-carolina-central-university": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:44:39.983550+00:00"
+  },
+  "https://gillen.house.gov/media/press-releases/reps-gillen-obernolte-introduce-bipartisan-advancing-regional-quantum-hubs-act": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:44:50.050908+00:00"
+  },
+  "https://nunn.house.gov/2026/01/23/nunn-announces-winners-of-2025-congressional-app-challenge/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:44:54.199293+00:00"
+  },
+  "https://ross.house.gov/2026/1/congresswoman-ross-announces-winner-of-2025-congressional-app-challenge": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:45:01.296724+00:00"
+  },
+  "https://www.capito.senate.gov/news/press-releases/senator-capito-participates-in-investiture-ceremony-for-moore-capito": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:45:07.245425+00:00"
+  },
+  "https://www.cramer.senate.gov/news/press-releases/cramer-visits-yuma-proving-ground-showcases-innovative-military-testing-and-technology": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:45:14.200671+00:00"
+  },
+  "https://www.duckworth.senate.gov/news/press-releases/duckworth-durbin-secure-support-for-illinois-priorities-in-recently-passed-package-of-three-government-funding-bills": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:45:20.678647+00:00"
+  },
+  "https://www.durbin.senate.gov/newsroom/press-releases/durbin-duckworth-secure-support-for-illinois-priorities-in-recently-passed-package-of-three-government-funding-bills": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:45:28.266498+00:00"
+  },
+  "https://www.hickenlooper.senate.gov/press_releases/icymi-hickenlooper-marches-for-justice-tours-rural-health-clinic-discusses-tariffs-with-farmers-child-care-in-denver/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:45:34.905415+00:00"
+  },
+  "https://www.merkley.senate.gov/merkley-wyden-deliver-over-100-million-for-critical-community-projects-funding-across-oregon/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:45:40.331533+00:00"
+  },
+  "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-kim-sound-alarm-on-potential-for-donald-trump-jr-linked-companies-to-profit-off-department-of-defense-contract-awards-loans": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:45:47.805910+00:00"
+  },
+  "https://goldman.house.gov/media/press-releases/goldman-meng-chu-vargas-introduce-legislation-protect-multilingual-services": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:45:53.443717+00:00"
+  },
+  "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5383": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:45:58.383942+00:00"
+  },
+  "https://mccollum.house.gov/media/press-releases/mccollum-announces-winners-2025-congressional-app-challenge": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:46:03.743864+00:00"
+  },
+  "https://www.heinrich.senate.gov/newsroom/in-the-news/nmsu-introduces-new-institute-degrees-in-artificial-intelligence": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:46:09.039146+00:00"
+  },
+  "https://www.heinrich.senate.gov/newsroom/in-the-news/senators-look-to-revive-permitting-talks-but-put-onus-on-trump": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:46:16.887630+00:00"
+  },
+  "https://www.justice.senate.gov/press-releases/senator-justice-touts-multi-billion-dollar-investment-in-mason-county-through-fidelis-new-energy": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:46:21.499461+00:00"
+  },
+  "https://www.reed.senate.gov/news/releases/reed-and-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health_environmental-costs-for-consumers": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:46:30.881820+00:00"
+  },
+  "https://www.welch.senate.gov/welch-leads-new-england-senators-in-call-for-answers-about-how-new-regional-data-centers-will-drive-up-energy-costs-for-consumers/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:46:38.597438+00:00"
+  },
+  "https://simpson.house.gov/news/documentsingle.aspx?DocumentID=401863": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:46:44.504512+00:00"
+  },
+  "https://www.boozman.senate.gov/public/index.cfm/press-releases?ID=FDB83211-A6CF-4A1D-B34B-FDA2129A64D2": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:46:51.670221+00:00"
+  },
+  "https://www.heinrich.senate.gov/newsroom/in-the-news/energy-affordability-emerges-as-top-election-issue-for-democrats": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:46:58.092153+00:00"
+  },
+  "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-colleagues-urge-trump-administration-to-reverse-course-on-rollback-of-probationary-federal-employee-protections": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:47:03.264275+00:00"
+  },
+  "https://www.warner.senate.gov/public/index.cfm/pressreleases?ID=36676FB1-20F4-430A-86A6-2D414DF5A628": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:47:10.917221+00:00"
+  },
+  "https://www.warner.senate.gov/public/index.cfm/pressreleases?ID=D8E888FA-7A18-417C-B1A5-CA0A26EC3C2D": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:47:16.103050+00:00"
+  },
+  "https://www.warren.senate.gov/newsroom/press-releases/warren-presses-openai-ceo-on-spending-commitments-and-bailout-requests-after-cfo-suggests-government-backstop": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:47:20.301589+00:00"
+  },
+  "https://jayapal.house.gov/2026/01/30/tlaib-jayapal-ramirez-introduce-resolution-to-take-on-the-oligarchy/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:47:25.923721+00:00"
+  },
+  "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=4096": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:47:29.489313+00:00"
+  },
+  "https://scottpeters.house.gov/press-releases/rep-peters-congratulates-2025-congressional-app-challenge-winners": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:47:36.555180+00:00"
+  },
+  "https://sessions.house.gov/2026/1/ongressman-pete-sessions-introduces-bipartisan-legislation-to-combat-identity-fraud-and-theft": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:47:43.985565+00:00"
+  },
+  "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4522": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:47:52.222561+00:00"
+  },
+  "https://www.hoeven.senate.gov/news/news-releases/hoeven-secures-north-dakota-defense-housing-and-transportation-priorities": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:48:29.422166+00:00"
+  },
+  "https://www.lujan.senate.gov/newsroom/press-releases/lujan-statement-on-dhs-funding-no-vote-announces-over-50-million-for-new-mexico-projects/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:48:35.407580+00:00"
+  },
+  "https://aderholt.house.gov/media-center/press-releases/congressman-aderholt-convenes-second-annual-aukus-defense-industry": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:48:43.227538+00:00"
+  },
+  "https://www.rounds.senate.gov/newsroom/press-releases/rounds-issues-statement-following-senates-passage-of-third-fy26-appropriations-package": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:48:47.548186+00:00"
+  },
+  "https://www.wicker.senate.gov/2026/1/wicker-applauds-passage-of-appropriations-bills": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:48:55.731710+00:00"
+  },
+  "https://scottpeters.house.gov/press-releases/what-they-are-saying-certain-act": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:49:01.003460+00:00"
+  },
+  "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-directly-secures-over-21-2-million-for-north-alabama-through-appropriations-leadership/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:49:05.872322+00:00"
+  },
+  "https://www.heinrich.senate.gov/newsroom/press-releases/icymi-enr-ranking-member-heinrich-hosts-roundtable-on-trump-administration-policies-raising-americans-electric-bills": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:49:11.779398+00:00"
+  },
+  "https://www.shaheen.senate.gov/news/press/shaheen-joins-colleagues-in-searching-for-answers-about-how-new-regional-data-centers-will-drive-up-energy-costs-for-new-england-communities": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:49:19.272314+00:00"
+  },
+  "https://youngkim.house.gov/2026/02/02/rep-young-kim-introduces-bill-to-crack-down-on-waste-fraud-and-abuse-of-taxpayer-dollars/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:49:25.291916+00:00"
+  },
+  "https://chu.house.gov/media-center/press-releases/rep-chu-and-sen-schiff-lead-california-delegation-members-calling-major": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:49:29.268506+00:00"
+  },
+  "https://degette.house.gov/media-center/press-releases/degette-community-project-funding-requests-signed-law-part-cjs-and-thud": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:49:37.219865+00:00"
+  },
+  "https://fedorchak.house.gov/media/press-releases/fedorchak-calls-out-blue-states-policies-driving-energy-costs-urges-ferc": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:49:41.891298+00:00"
+  },
+  "https://fong.house.gov/media/press-releases/community-applauds-congressman-fong-securing-104-million-district-fy26-funding": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:49:48.550322+00:00"
+  },
+  "https://garamendi.house.gov/media/press-releases/garamendi-pens-article-nuclear-weapons-oversight-harvard-law-school-journal": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:49:55.106779+00:00"
+  },
+  "https://goldman.house.gov/media/press-releases/goldman-warren-lawmakers-push-expedited-probe-ices-violence-after-watchdog": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:50:00.410508+00:00"
+  },
+  "https://horsford.house.gov/media/press-releases/horsford-votes-against-senate-funding-bill-over-continuous-lack-of-ice-oversight-transparency-and-accountability": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:50:08.112012+00:00"
+  },
+  "https://mcclellan.house.gov/media/press-releases/mcclellan-introduces-bipartisan-legislation-strengthen-us-leadership-robotics": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:50:18.906251+00:00"
+  },
+  "https://menendez.house.gov/media/press-releases/menendez-pfluger-introduce-legislation-to-protect-communities-from-ai-driven-cyberattacks": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:50:27.780803+00:00"
+  },
+  "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-secures-over-14-million-for-14-san-diego-projects": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:50:34.383159+00:00"
+  },
+  "https://www.blackburn.senate.gov/2026/2/jobs and economy/blackburn-touts-wins-for-tennessee-in-government-funding-package-signed-into-law-by-president-trump": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:50:42.205554+00:00"
+  },
+  "https://www.collins.senate.gov/newsroom/79-million-for-the-umaine-system-secured-by-senator-collins-in-funding-bills": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:50:46.452134+00:00"
+  },
+  "https://www.collins.senate.gov/newsroom/more-than-33-million-for-maines-colleges-and-universities-secured-by-senator-collins-in-funding-bills": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:50:51.210637+00:00"
+  },
+  "https://www.hassan.senate.gov/news/press-releases/signed-into-law-annual-funding-bills-with-hassan-led-measures-to-lower-health-care-costs-provide-support-for-nh-families": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:50:57.188523+00:00"
+  },
+  "https://www.heinrich.senate.gov/newsroom/press-releases/breaking-387-million-heinrich-secured-for-new-mexico-in-fy26-funding-signed-into-law-while-renewing-call-for-dhs-funding-to-include-commonsense-reforms": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:51:03.299831+00:00"
+  },
+  "https://www.merkley.senate.gov/senate-foreign-relations-democrats-statement-on-reports-of-trump-family-bribe-from-uae-officials/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:51:10.773986+00:00"
+  },
+  "https://www.murphy.senate.gov/newsroom/press-releases/murphy-on-trumps-secret-deal-with-the-uae-the-white-house-is-a-non-stop-corruption-machine": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:51:16.545577+00:00"
+  },
+  "https://www.shaheen.senate.gov/news/press/icymi-in-bipartisan-appropriations-package-shaheen-secures-national-and-new-hampshire-priorities-more-than-43-million-for-54-granite-state-projects": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:51:20.809342+00:00"
+  },
+  "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-joins-warren-colleagues-in-pushing-for-expedited-probe-of-ices-violence-upon-confirmed-investigation": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:51:26.368861+00:00"
+  },
+  "https://www.welch.senate.gov/in-judiciary-hearing-welch-warns-about-costs-to-creative-community-if-netflix-acquires-warner-bros-discovery/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:51:33.139310+00:00"
+  },
+  "https://www.wicker.senate.gov/2026/2/chairman-wicker-leads-sasc-hearing-on-strategic-competition-in-a-post-new-start-treaty-environment": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:51:37.603817+00:00"
+  },
+  "https://neguse.house.gov/media/press-releases/sounding-alarm-congressman-neguse-delivers-address-house-floor-condemning": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:51:44.373643+00:00"
+  },
+  "https://www.capito.senate.gov/news/press-releases/chairman-capito-opening-statement-at-hearing-to-examine-cybersecurity-challenges-impacting-us-critical-water-infrastructure": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:51:50.492788+00:00"
+  },
+  "https://www.daines.senate.gov/2026/02/04/daines-discusses-need-for-energy-reform-in-europe/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:51:57.076650+00:00"
+  },
+  "https://www.gallego.senate.gov/news/press-releases/gallego-moreno-introduce-bipartisan-bill-to-crack-down-on-online-scam-ads/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:52:03.053151+00:00"
+  },
+  "https://www.gillibrand.senate.gov/news/press/release/gillibrand-schumer-announce-8-million-in-federal-funding-for-staten-island/": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:52:08.950123+00:00"
+  },
+  "https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-announce-8-million-in-federal-funding-for-staten-island-community-projects": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:52:14.773755+00:00"
+  },
+  "https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-announce-over-305-million-in-federal-funding-for-manhattan-community-projects": {
+    "sentiment": "neutral",
+    "classified_at": "2026-04-14T18:52:19.750722+00:00"
+  },
+  "https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-deliver-more-than-108-million-in-federal-funding-for-long-island-community-projects": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:52:25.220285+00:00"
+  },
+  "https://www.warren.senate.gov/newsroom/press-releases/warren-sounds-the-alarm-on-googles-new-ai-shopping-partnerships": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:52:30.390170+00:00"
+  },
+  "https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-blumenthal-call-on-federal-regulators-to-investigate-meta-google-nvidia-reverse-acqui-hire-deals": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:52:37.569172+00:00"
+  },
+  "https://cleaver.house.gov/media-center/press-releases/congressman-cleaver-secures-more-15-million-public-safety": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:52:45.088040+00:00"
+  },
+  "https://jayapal.house.gov/2026/02/05/markey-jayapal-merkley-wyden-introduce-bill-to-ban-ice-and-cbp-use-of-facial-recognition-technology-amid-trumps-rapidly-growing-surveillance-state/": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:52:50.337575+00:00"
+  },
+  "https://kevinmullin.house.gov/2026/02/05/rail-and-highway-transmission-planning-act/": {
+    "sentiment": "positive",
+    "classified_at": "2026-04-14T18:53:05.059241+00:00"
+  },
+  "https://patronis.house.gov/media/press-releases/congressman-patronis-files-the-true-cost-of-big-tech-in-the-congressional-record": {
+    "sentiment": "negative",
+    "classified_at": "2026-04-14T18:53:21.295092+00:00"
+  }
+}
