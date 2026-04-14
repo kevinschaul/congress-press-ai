@@ -13,7 +13,6 @@ import re
 import sys
 import urllib.request
 from collections import defaultdict
-from datetime import datetime, timezone
 from pathlib import Path
 
 BASE_URL = "https://thescoop.org/congress-press/downloads/{month}.jsonl"
@@ -29,7 +28,7 @@ SCRIPT_DIR = Path(__file__).parent
 DATA_DIR = SCRIPT_DIR.parent / "data"
 RAW_DIR = DATA_DIR / "raw"
 CLEAN_DIR = DATA_DIR / "clean"
-COMBINED_FILE = CLEAN_DIR / "ai-mentions.json"
+COMBINED_FILE = CLEAN_DIR / "ai-mentions.jsonl"
 
 SNIPPET_CONTEXT = 150  # chars on each side of a keyword match
 
@@ -122,38 +121,28 @@ def save_raw(result: dict) -> None:
 
 
 def rebuild_combined() -> None:
-    """Rebuild data/clean/ai-mentions.json from all raw files."""
+    """Rebuild data/clean/ai-mentions.jsonl from all raw files."""
     raw_files = sorted(RAW_DIR.glob("*.json"))
     if not raw_files:
         print("No raw files found; skipping combined rebuild.")
         return
 
-    all_matches = []
-    monthly = []
-
-    for f in raw_files:
-        data = json.loads(f.read_text())
-        month = data["month"]
-        for match in data["matches"]:
-            all_matches.append({**match, "month": month})
-        monthly.append({
-            "month": month,
-            "total": data["total_releases"],
-            "matched": data["matched_releases"],
-            "rate": data["match_rate"],
-            "keyword_counts": data["keyword_counts"],
-        })
+    count = 0
+    months = 0
 
     CLEAN_DIR.mkdir(parents=True, exist_ok=True)
     with open(COMBINED_FILE, "w") as f:
-        json.dump({
-            "generated_at": datetime.now(timezone.utc).isoformat(),
-            "matches": all_matches,
-            "monthly": monthly,
-        }, f)
+        for raw_file in raw_files:
+            data = json.loads(raw_file.read_text())
+            month = data["month"]
+            months += 1
+            for match in data["matches"]:
+                f.write(json.dumps({**match, "month": month}) + "\n")
+                count += 1
+
     print(
         f"Rebuilt {COMBINED_FILE.relative_to(DATA_DIR.parent)} "
-        f"({len(all_matches)} matches across {len(monthly)} months)"
+        f"({count} matches across {months} months)"
     )
 
 

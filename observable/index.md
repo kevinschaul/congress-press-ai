@@ -7,11 +7,8 @@ title: AI Mentions Explorer
 Press releases from members of Congress mentioning **AI**, **artificial intelligence**, or **data center**. Data via [congress-press](https://thescoop.org/congress-press/).
 
 ```js
-const raw = await FileAttachment("data/clean/ai-mentions.json").json()
-```
-
-```js
-display(html`<p style="color:#888;font-size:0.85em">Last updated: ${new Date(raw.generated_at).toLocaleString()}</p>`)
+const rawText = await FileAttachment("data/clean/ai-mentions.jsonl").text()
+const raw = rawText.trim().split("\n").map(d => JSON.parse(d))
 ```
 
 ```js
@@ -23,7 +20,7 @@ import * as d3 from "npm:d3"
 const PARTY_COLOR = {Democrat: "#1366b3", Republican: "#be2c25", Independent: "#228b22"}
 const PARTY_ABBREV = {Democrat: "D", Republican: "R", Independent: "I"}
 
-const data = raw.matches.map(d => {
+const data = raw.map(d => {
   const abbrev = PARTY_ABBREV[d.party] ?? "?"
   const memberLabel = d.member
     ? `${d.member} (${abbrev}${d.state ? "-" + d.state : ""})`
@@ -39,7 +36,7 @@ const data = raw.matches.map(d => {
 ```
 
 ```js
-const months = raw.monthly.map(d => d.month).sort()
+const months = [...new Set(raw.map(d => d.month))].sort()
 const selectedMonth = view(Inputs.select(["All", ...months], {label: "Month"}))
 ```
 
