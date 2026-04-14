@@ -18,6 +18,7 @@ import * as d3 from "npm:d3"
 
 ```js
 const PARTY_COLOR = {Democrat: "#1366b3", Republican: "#be2c25", Independent: "#228b22"}
+const PARTY_COLOR_LIGHT = {Democrat: "#c8dff2", Republican: "#f2c8c6", Independent: "#c3e0c3"}
 const PARTY_ABBREV = {Democrat: "D", Republican: "R", Independent: "I"}
 
 const data = raw.map(d => {
@@ -44,17 +45,17 @@ const selectedMonth = view(Inputs.select(["All", ...months], {label: "Month"}))
 const filtered = selectedMonth === "All" ? data : data.filter(d => d.month === selectedMonth)
 ```
 
-## By party
+## By party, by day
 
 ```js
-const partyByMonth = d3.flatRollup(
+const partyByDay = d3.flatRollup(
   filtered.filter(d => d.party === "Democrat" || d.party === "Republican"),
   v => v.length,
-  d => d.month,
+  d => d3.timeFormat("%Y-%m-%d")(d.date),
   d => d.party
 )
-.map(([month, party, count]) => ({
-  date: new Date(month + "-02"),
+.map(([day, party, count]) => ({
+  date: new Date(day + "T12:00:00"),
   party,
   count,
 }))
@@ -62,32 +63,125 @@ const partyByMonth = d3.flatRollup(
 ```
 
 ```js
+const rolling7 = ["Democrat", "Republican"].flatMap(party => {
+  const pts = partyByDay.filter(d => d.party === party).sort((a, b) => a.date - b.date)
+  return pts.map((d, i) => {
+    const slice = pts.slice(Math.max(0, i - 6), i + 1)
+    return {...d, avg: d3.mean(slice, s => s.count)}
+  })
+})
+```
+
+```js
 Plot.plot({
+  subtitle: "Line shows 7-day rolling average",
   marks: [
-    Plot.lineY(partyByMonth, {
+    Plot.gridY({stroke: "#eee", strokeWidth: 1, strokeOpacity: 1, shapeRendering: "crispEdges"}),
+    Plot.rectY(partyByDay, {
       x: "date",
       y: "count",
-      stroke: "party",
-      strokeWidth: 2,
+      fy: "party",
+      interval: "day",
+      fill: d => PARTY_COLOR_LIGHT[d.party] ?? "#ccc",
       tip: true,
     }),
-    Plot.dotY(partyByMonth, {
+    Plot.lineY(rolling7, {
       x: "date",
-      y: "count",
-      fill: "party",
-      r: 4,
+      y: "avg",
+      fy: "party",
+      stroke: "party",
+      strokeWidth: 2,
+    }),
+    Plot.ruleY([0]),
+    Plot.text(["Democrat", "Republican"], {
+      fy: d => d,
+      text: d => d + "s",
+      frameAnchor: "top-left",
+      dx: 4,
+      dy: 26,
+      fontSize: 15,
+      fontWeight: "bold",
+      fill: d => PARTY_COLOR[d],
     }),
   ],
   color: {
     domain: ["Democrat", "Republican"],
     range: [PARTY_COLOR.Democrat, PARTY_COLOR.Republican],
-    legend: true,
   },
-  x: {label: null, tickFormat: d => d3.timeFormat("%b %Y")(d)},
-  y: {label: "Mentions per month", domain: [0, d3.max(partyByMonth, d => d.count)]},
+  x: {label: null},
+  y: {label: "Count"},
+  fy: {label: null, axis: null},
+  marginTop: 30,
   width,
+  marginLeft: 40,
   marginBottom: 50,
 })
+```
+
+## Browse mentions
+
+```js
+const esc = s => (s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+const highlight = s => esc(s).replace(/(\bAI\b|artificial intelligence|data center)/gi, "<mark>$1</mark>")
+```
+
+```js
+const selected = view(Inputs.table(filtered, {
+  columns: ["date", "memberLabel", "snippet", "url"],
+  width: {snippet: 400},
+  header: {
+    date: "Date",
+    memberLabel: "Member",
+    snippet: "Context",
+    url: "",
+  },
+  format: {
+    date: d => d.toLocaleDateString("en-US"),
+    memberLabel: d => {
+      const party = d.match(/\(([DRI])/)?.[1]
+      const color = party === "D" ? PARTY_COLOR.Democrat : party === "R" ? PARTY_COLOR.Republican : "#333"
+      return html`<span style="color:${color};font-weight:bold">${d}</span>`
+    },
+    snippet: d => {
+      const s = d ?? ""
+      const el = html`<span style="color:#555;font-size:0.85em;white-space:normal;display:block"></span>`
+      el.innerHTML = highlight(s.length > 300 ? s.slice(0, 300) + "…" : s)
+      return el
+    },
+    url: d => html`<a href="${d}" target="_blank" style="text-decoration:none">Original ↗</a>`,
+  },
+  sort: "date",
+  reverse: true,
+  rows: 20,
+  multiple: false,
+}))
+```
+
+```js
+{
+  if (!selected) {
+    display(html`<p style="color:#999;font-style:italic;margin-top:0.5rem">Click a row to view the full press release.</p>`)
+  } else {
+    const fullText = selected.text || selected.snippets?.join("\n\n…\n\n") || ""
+
+    const el = html`<div style="margin-top:1.5rem;padding:1.5rem;border:1px solid #e0e0e0;border-radius:8px;background:#fafafa">
+      <h3 style="margin-top:0"></h3>
+      <p style="color:#666;margin:0.25rem 0 1rem"></p>
+      <div style="font-size:0.9em;line-height:1.7;white-space:pre-wrap;max-height:500px;overflow-y:auto;border-top:1px solid #e0e0e0;padding-top:1rem"></div>
+    </div>`
+
+    const link = document.createElement("a")
+    link.href = selected.url
+    link.target = "_blank"
+    link.textContent = selected.title
+    el.querySelector("h3").appendChild(link)
+
+    el.querySelector("p").textContent = `${selected.memberLabel} · ${selected.date.toLocaleDateString("en-US", {year: "numeric", month: "long", day: "numeric"})}`
+    el.querySelector("div").innerHTML = highlight(fullText)
+
+    display(el)
+  }
+}
 ```
 
 ## Top members
@@ -152,76 +246,4 @@ Plot.plot({
   width,
   marginLeft: 160,
 })
-```
-
-## Browse mentions
-
-```js
-const search = view(Inputs.search(filtered, {
-  placeholder: "Search member, title, snippet…",
-  columns: ["memberLabel", "title", "snippet"],
-}))
-```
-
-```js
-const selected = view(Inputs.table(search, {
-  columns: ["date", "memberLabel", "title", "snippet", "url"],
-  header: {
-    date: "Date",
-    memberLabel: "Member",
-    title: "Title",
-    snippet: "Context",
-    url: "",
-  },
-  format: {
-    date: d => d.toLocaleDateString("en-US"),
-    memberLabel: d => {
-      const party = d.match(/\(([DRI])/)?.[1]
-      const color = party === "D" ? PARTY_COLOR.Democrat : party === "R" ? PARTY_COLOR.Republican : "#333"
-      return html`<span style="color:${color};font-weight:bold">${d}</span>`
-    },
-    title: d => {
-      const t = d ?? ""
-      return html`<span title="${t}">${t.length > 80 ? t.slice(0, 80) + "…" : t}</span>`
-    },
-    snippet: d => {
-      const s = d ?? ""
-      return html`<span style="color:#555;font-size:0.85em" title="${s}">${s.length > 300 ? s.slice(0, 300) + "…" : s}</span>`
-    },
-    url: d => html`<a href="${d}" target="_blank" style="text-decoration:none">↗</a>`,
-  },
-  sort: "date",
-  reverse: true,
-  rows: 20,
-  multiple: false,
-}))
-```
-
-```js
-{
-  if (!selected) {
-    display(html`<p style="color:#999;font-style:italic;margin-top:0.5rem">Click a row to view the full press release.</p>`)
-  } else {
-    const esc = s => (s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
-    const highlight = s => esc(s).replace(/(\bAI\b|artificial intelligence|data center)/gi, "<mark>$1</mark>")
-    const fullText = selected.text || selected.snippets?.join("\n\n…\n\n") || ""
-
-    const el = html`<div style="margin-top:1.5rem;padding:1.5rem;border:1px solid #e0e0e0;border-radius:8px;background:#fafafa">
-      <h3 style="margin-top:0"></h3>
-      <p style="color:#666;margin:0.25rem 0 1rem"></p>
-      <div style="font-size:0.9em;line-height:1.7;white-space:pre-wrap;max-height:500px;overflow-y:auto;border-top:1px solid #e0e0e0;padding-top:1rem"></div>
-    </div>`
-
-    const link = document.createElement("a")
-    link.href = selected.url
-    link.target = "_blank"
-    link.textContent = selected.title
-    el.querySelector("h3").appendChild(link)
-
-    el.querySelector("p").textContent = `${selected.memberLabel} · ${selected.date.toLocaleDateString("en-US", {year: "numeric", month: "long", day: "numeric"})}`
-    el.querySelector("div").innerHTML = highlight(fullText)
-
-    display(el)
-  }
-}
 ```

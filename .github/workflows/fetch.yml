@@ -30,7 +30,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new data."
           else
-            git commit -m "data: fetch $(date +%Y-%m) [skip ci]"
+            git commit -m "data: fetch $(date +%Y-%m)"
             git push
           fi
 
