@@ -32,7 +32,7 @@ KEYWORD_PATTERN = re.compile(r'\bAI\b|artificial intelligence|data center', re.I
 
 
 def highlight(text: str) -> str:
-    return KEYWORD_PATTERN.sub(lambda m: f"<mark>{escape(m.group(0))}</mark>", escape(text))
+    return KEYWORD_PATTERN.sub(lambda m: f"<strong>{escape(m.group(0))}</strong>", escape(text))
 
 
 def parse_date(date_str: str) -> datetime:
@@ -54,6 +54,9 @@ def build_description(record: dict) -> str:
         parts.append(f"<p><strong>{escape(meta)}</strong></p>")
     for s in snippets[:2]:
         parts.append(f"<p>…{highlight(s)}…</p>")
+    full_text = record.get("text") or ""
+    if full_text:
+        parts.append(f"<hr><div>{highlight(full_text)}</div>")
     return "".join(parts)
 
 
