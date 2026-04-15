@@ -32,5 +32,12 @@ jobs:
           else
             git commit -m "data: fetch $(date +%Y-%m)"
             git push
+            echo "PUSHED=true" >> $GITHUB_ENV
           fi
+
+      - name: Trigger deploy
+        if: env.PUSHED == 'true'
+        run: gh workflow run deploy.yml
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
