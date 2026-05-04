@@ -1,8 +1,8 @@
 {
   "month": "2026-05",
-  "total_releases": 122,
+  "total_releases": 125,
   "matched_releases": 5,
-  "match_rate": 0.040983606557377046,
+  "match_rate": 0.04,
   "keyword_counts": {
     "data center": 1,
     "AI": 3,
