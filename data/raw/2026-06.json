@@ -1,8 +1,50 @@
 {
   "month": "2026-06",
-  "total_releases": 0,
-  "matched_releases": 0,
-  "match_rate": 0,
-  "keyword_counts": {},
-  "matches": []
+  "total_releases": 74,
+  "matched_releases": 2,
+  "match_rate": 0.02702702702702703,
+  "keyword_counts": {
+    "artificial intelligence": 2,
+    "AI": 2
+  },
+  "matches": [
+    {
+      "title": "RELEASE: Gottheimer Leads Intelligence Committee Trip to the UAE and Asia with Clear Message: End Iran\u2019s Threats, Strengthen American Alliances",
+      "date": "2026-06-01",
+      "member": "Josh Gottheimer",
+      "party": "Democrat",
+      "state": "NJ",
+      "chamber": "House",
+      "url": "https://gottheimer.house.gov/posts/release-gottheimer-leads-intelligence-committee-trip-to-the-uae-and-asia-with-clear-message-end-irans-threats-strengthen-american-alliances",
+      "keywords_found": [
+        "AI",
+        "artificial intelligence"
+      ],
+      "snippets": [
+        "ty Prime Minister and Foreign Minister His Highness Sheikh Abdullah bin Zayed Al Nahyan to discuss the ongoing conflict with Iran, regional security, artificial intelligence, and energy security cooperation.\n\nThe group also discussed rising antisemitism and extremism and both nations\u2019 shared commitment to combating hate a",
+        "before. We are completely aligned that Iran cannot continue threatening its neighbors.\u201d\n\nGottheimer continued, \u201cWe also had productive discussions on artificial intelligence and energy cooperation that underscored the strength of what our two societies can build. Together, we are forging a partnership that will define the",
+        "cooperation that underscored the strength of what our two societies can build. Together, we are forging a partnership that will define the future of AI and energy innovation.\u201d\n\nThe US-UAE partnership spans decades, rooted in shared interests in regional stability, economic cooperation, and countering"
+      ],
+      "text": "Congressman Gottheimer meets with the Deputy Ruler of Abu Dhabi and National Security Advisor Tahnoun bin Zayed Al Nahyan in the UAE.\n\nWASHINGTON, D.C. \u2014 Congressman Josh Gottheimer (NJ-5), a member of the House Permanent Select Committee on Intelligence (HPSCI), released the following statement after leading a HPSCI Congressional delegation (CODEL) to the United Arab Emirates, Thailand, and the Philippines.\n\nIn the UAE, Gottheimer was honored to meet with Deputy Ruler of Abu Dhabi and National Security Advisor His Highness Sheikh Tahnoun bin Zayed Al Nahyan and Deputy Prime Minister and Foreign Minister His Highness Sheikh Abdullah bin Zayed Al Nahyan to discuss the ongoing conflict with Iran, regional security, artificial intelligence, and energy security cooperation.\n\nThe group also discussed rising antisemitism and extremism and both nations\u2019 shared commitment to combating hate and extremist ideologies.\n\nIn Thailand and the Philippines, Gottheimer met with senior officials to discuss shared efforts to strengthen security in the Indo-Pacific and counter the destabilizing influence of bad actors around the world, including China, North Korea, and Iran.\n\n\u201cThe United States and the UAE are close partners, and I am grateful for the warmth our hosts extended throughout this trip,\u201d said Congressman Josh Gottheimer (NJ-5). \u201cThe UAE has stood firm throughout Iran\u2019s relentless missile and drone attacks on Emirati cities and demonstrated the enduring strength of the Abraham Accords by engaging in a deeper partnership with Israel than ever before. We are completely aligned that Iran cannot continue threatening its neighbors.\u201d\n\nGottheimer continued, \u201cWe also had productive discussions on artificial intelligence and energy cooperation that underscored the strength of what our two societies can build. Together, we are forging a partnership that will define the future of AI and energy innovation.\u201d\n\nThe US-UAE partnership spans decades, rooted in shared interests in regional stability, economic cooperation, and countering Iran and other malign actors. The UAE is among America\u2019s closest partners in the Middle East, a core architect of the Abraham Accords, and a valued ally of the United States.\n\nCongressman Gottheimer is a member of HPSCI and serves as the Ranking Member of the National Security Agency & Cyber Subcommittee."
+    },
+    {
+      "title": "Trahan: Congress Must Act Now on AI",
+      "date": "2026-06-01",
+      "member": "Lori Trahan",
+      "party": "Democrat",
+      "state": "MA",
+      "chamber": "House",
+      "url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3779",
+      "keywords_found": [
+        "AI",
+        "artificial intelligence"
+      ],
+      "snippets": [
+        "an op-ed in CommonWealth Beacon making the case that Congress cannot afford to wait for a crisis before establishing guardrails on the most powerful AI systems, drawing a direct line from the manufacturing jobs that vanished from the Merrimack Valley she represents to the disruption AI now threatens",
+        "most powerful AI systems, drawing a direct line from the manufacturing jobs that vanished from the Merrimack Valley she represents to the disruption AI now threatens to unleash on America\u2019s workers, national security, and cyber infrastructure.\n\n\u201cAfter decades of offshoring and automation hollowing ou",
+        "dn\u2019t need a study to tell them what was coming. They needed Congress to act years before they got handed pink slips,\u201d Congresswoman Trahan wrote. \u201cOn artificial intelligence, we still have a chance to move before similar damage is done, but that window is closing faster than most people realize.\u201d\n\nTrahan points to Anthrop"
+      ],
+      "text": "This weekend, Congresswoman Lori Trahan (MA-03), a member of the House Energy and Commerce Committee penned an op-ed in CommonWealth Beacon making the case that Congress cannot afford to wait for a crisis before establishing guardrails on the most powerful AI systems, drawing a direct line from the manufacturing jobs that vanished from the Merrimack Valley she represents to the disruption AI now threatens to unleash on America\u2019s workers, national security, and cyber infrastructure.\n\n\u201cAfter decades of offshoring and automation hollowing out American manufacturing, the workers left behind in Haverhill didn\u2019t need a study to tell them what was coming. They needed Congress to act years before they got handed pink slips,\u201d Congresswoman Trahan wrote. \u201cOn artificial intelligence, we still have a chance to move before similar damage is done, but that window is closing faster than most people realize.\u201d\n\nTrahan points to Anthropic's Mythos model, which was deemed too dangerous for public release after it proved capable of identifying thousands of vulnerabilities across major operating systems and browsers. Despite warning signs like these, she notes, there is no federal law governing how the most powerful AI systems are built, tested, or deployed, no independent auditing of frontier labs' safety claims, and no federal agency with clear authority to step in to prevent a catastrophic event.\n\nShe goes on to describe what a potential bipartisan federal framework can and should include:\n\nFrontier Accountability: Require the largest AI companies to publish and comply with safety frameworks, submit to third-party audits, and ensure whistleblowers are protected.\n\nIndependent verification: Accredit private auditing organizations to embed within frontier labs and call in enforcers when companies fall short of safety and transparency requirements.\n\nProtections for American Workers: Update WARN Act requirements so employers must disclose when AI drives a mass layoff, enable real-time tracking of AI impacts on the workforce, and prompt Congress to act proactively to support American workers rather than job training after the damage is done.\n\nStrengthened Cyber Defenses: Include funding for open-source maintainers and reauthorize the threat-sharing framework that lets companies flag risks without antitrust exposure.\n\nTrahan also addresses the federalism question head-on, arguing that serious governance concentrates oversight at the frontier and elevates the strongest state provisions into a federal standard focused on model development, while explicitly preserving states' ability to protect residents from AI systems that discriminate, deceive, or endanger.\n\n\u201cI cannot go back to Haverhill, look a worker, a parent, or a recent graduate in the eyes, and tell them that we saw what was coming and decided to wait for a more opportune moment,\u201d Congresswoman Trahan continued. \u201cCongress must act for the workers, the families, and the communities that cannot afford for us to get this wrong. Again.\u201d"
+    }
+  ]
 }
