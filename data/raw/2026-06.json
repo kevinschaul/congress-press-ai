@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
-  "total_releases": 2103,
+  "total_releases": 2108,
   "matched_releases": 119,
-  "match_rate": 0.056585829766999524,
+  "match_rate": 0.056451612903225805,
   "keyword_counts": {
     "AI": 98,
     "artificial intelligence": 74,
