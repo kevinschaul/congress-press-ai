@@ -1,11 +1,11 @@
 {
   "month": "2026-08",
-  "total_releases": 2089,
+  "total_releases": 2101,
   "matched_releases": 106,
-  "match_rate": 0.05074198180947822,
+  "match_rate": 0.05045216563541171,
   "keyword_counts": {
-    "artificial intelligence": 60,
     "AI": 72,
+    "artificial intelligence": 60,
     "data center": 19
   },
   "matches": [
