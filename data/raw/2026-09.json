@@ -1,8 +1,139 @@
 {
   "month": "2026-09",
-  "total_releases": 1,
-  "matched_releases": 0,
-  "match_rate": 0.0,
-  "keyword_counts": {},
-  "matches": []
+  "total_releases": 168,
+  "matched_releases": 7,
+  "match_rate": 0.041666666666666664,
+  "keyword_counts": {
+    "artificial intelligence": 4,
+    "AI": 5,
+    "data center": 2
+  },
+  "matches": [
+    {
+      "title": "Barrett Helps Introduce Bipartisan Bill To Protect Patients From AI Insurance Denials",
+      "date": "2026-09-01",
+      "member": "Tom Barrett",
+      "party": "Republican",
+      "state": "MI",
+      "chamber": "House",
+      "url": "https://barrett.house.gov/media/press-releases/barrett-helps-introduce-bipartisan-bill-protect-patients-ai-insurance-denials",
+      "keywords_found": [
+        "AI",
+        "artificial intelligence"
+      ],
+      "snippets": [
+        "\u2014 Today, Congressmen Tom Barrett (MI-07), Greg Landsman (OH-01), Buddy Carter (GA-01), and Kim Schrier (WA-08) introduced the bipartisan Doctors Not AI Act to ensure that artificial intelligence cannot make or dictate health insurance coverage decisions involving medical judgment. The bill would requ",
+        "Tom Barrett (MI-07), Greg Landsman (OH-01), Buddy Carter (GA-01), and Kim Schrier (WA-08) introduced the bipartisan Doctors Not AI Act to ensure that artificial intelligence cannot make or dictate health insurance coverage decisions involving medical judgment. The bill would require a qualified, licensed health care profe",
+        "exercising independent clinical judgment, to make any decision that a particular procedure, treatment, or prescription is not medically necessary.\n\n\u201cArtificial intelligence should never replace the judgment of a doctor,\u201d said Barrett. \u201cWhen it comes to someone\u2019s health and well-being, the outcome is too important to leav"
+      ],
+      "text": "Washington, D.C. \u2014 Today, Congressmen Tom Barrett (MI-07), Greg Landsman (OH-01), Buddy Carter (GA-01), and Kim Schrier (WA-08) introduced the bipartisan Doctors Not AI Act to ensure that artificial intelligence cannot make or dictate health insurance coverage decisions involving medical judgment. The bill would require a qualified, licensed health care professional, exercising independent clinical judgment, to make any decision that a particular procedure, treatment, or prescription is not medically necessary.\n\n\u201cArtificial intelligence should never replace the judgment of a doctor,\u201d said Barrett. \u201cWhen it comes to someone\u2019s health and well-being, the outcome is too important to leave it up to an algorithm. This bill makes sure doctors \u2014 not AI \u2014 remain responsible for determining what care patients need while bringing greater transparency to the use of these technologies in health insurance.\u201d\n\n\u201cWhen a computer system is making decisions about health care, people will get hurt,\u201d said Landsman. \u201cWe have to make sure health care professionals remain the decision makers. If not, folks will be left with massive bills, their health getting worse, or even life-threatening consequences.\u201d\n\nThe Doctors Not AI Act:\n\nEnsures AI is used only in a supporting role and requires independent clinical judgment for decisions about whether care is medically necessary;\n\nRequires insurers to include AI-generated outputs in the administrative record, disclose the use of AI systems in the claims review process, and make the documentation available to patients; and\n\nPromotes fair coverage for mental health treatment by preventing disproportionate algorithmic scrutiny of care for mental health and substance use disorders."
+    },
+    {
+      "title": "CONGRESSMAN FIELDS ANNOUNCES $1.8 MILLION IN FEDERAL FUNDING FOR NORTHWESTERN STATE UNIVERSITY EQUIPMENT EXPANSION",
+      "date": "2026-09-01",
+      "member": "Cleo Fields",
+      "party": "Democrat",
+      "state": "LA",
+      "chamber": "House",
+      "url": "https://fields.house.gov/media/press-releases/congressman-fields-announces-18-million-federal-funding-northwestern-state",
+      "keywords_found": [
+        "AI"
+      ],
+      "snippets": [
+        ".S. Senators Bill Cassidy and John Kennedy.\n\nThe award will allow the university to purchase cutting-edge equipment for Innovation Park, including an AI supercomputer, laser cutters, and advanced 3D printers.\n\n\u201cInnovation Park is a cornerstone of STEM education in Northwestern Louisiana,\u201d said Congres"
+      ],
+      "text": "NATCHITOCHES, LA \u2014 Congressman Cleo Fields (LA-06) today announced that Northwestern State University has been awarded $1.8 million in federal funding through the U.S. Department of Commerce's National Institute of Standards and Technology (NIST) to support the university's Innovation Park Equipment Expansion (IPEX) Project. The funding request was submitted in collaboration with U.S. Senators Bill Cassidy and John Kennedy.\n\nThe award will allow the university to purchase cutting-edge equipment for Innovation Park, including an AI supercomputer, laser cutters, and advanced 3D printers.\n\n\u201cInnovation Park is a cornerstone of STEM education in Northwestern Louisiana,\u201d said Congressman Fields. \u201cThis funding will expand research and innovation opportunities, empowering students to deepen their STEM expertise and drive groundbreaking discoveries. It will give students the critical skills they need to lead the next wave of scientific and technological innovation, and give Louisiana employers the workforce they need to grow. I was proud to work alongside Senator Cassidy and Senator Kennedy to bring these resources home to Natchitoches and to ensure Louisiana institutions get their fair share of federal investment in research and workforce development.\u201d\n\nThe equipment is expected to expand research and innovation opportunities at Innovation Park, provide students with hands-on experience in high-demand fields, strengthen the university's ability to attract and retain top undergraduate and graduate students and faculty, and support Louisiana's broader economic development priorities in advanced technology, industrial engineering, and biomedical research.\n\nThe award was made under NIST's Congressionally-Identified Projects program (CFDA 11.617).\n\n###"
+    },
+    {
+      "title": "Rep. Gabe Evans\u2019 Open-Source AI Leadership Act Passes Energy & Commerce Subcommittee",
+      "date": "2026-09-01",
+      "member": "Gabe Evans",
+      "party": "Republican",
+      "state": "CO",
+      "chamber": "House",
+      "url": "https://gabeevans.house.gov/media/press-releases/rep-gabe-evans-open-source-ai-leadership-act-passes-energy-commerce",
+      "keywords_found": [
+        "AI",
+        "artificial intelligence"
+      ],
+      "snippets": [
+        "WASHINGTON \u2014 Today, Congressman Gabe Evans\u2019 Open-Source AI Leadership Act passed the the House Energy and Commerce Subcommittee on Commerce, Manufacturing, and Trade, advancing the legislation for considerati",
+        "ing the legislation for consideration by the full Committee.\n\nRep. Evans introduced the legislation to strengthen America\u2019s leadership in open-source artificial intelligence as the United States competes with China for technological dominance \u2014 in addition to encouraging commonsense guardrails on this technology to protec",
+        "ense guardrails on this technology to protect consumers. The bill directs the Department of Commerce to support the adoption and use of American open AI models by identifying barriers, coordinating with American companies and startups, and developing policies that help U.S. innovation compete at home"
+      ],
+      "text": "WASHINGTON \u2014 Today, Congressman Gabe Evans\u2019 Open-Source AI Leadership Act passed the the House Energy and Commerce Subcommittee on Commerce, Manufacturing, and Trade, advancing the legislation for consideration by the full Committee.\n\nRep. Evans introduced the legislation to strengthen America\u2019s leadership in open-source artificial intelligence as the United States competes with China for technological dominance \u2014 in addition to encouraging commonsense guardrails on this technology to protect consumers. The bill directs the Department of Commerce to support the adoption and use of American open AI models by identifying barriers, coordinating with American companies and startups, and developing policies that help U.S. innovation compete at home and around the world.\n\nThe legislation also takes aim at the growing national security and economic risks posed by AI models developed by foreign adversaries. It requires the Commerce Department to assess risks involving Americans\u2019 personal and proprietary information, supply-chain security, model accuracy and censorship, safeguards against misuse, and threats involving chemical, biological, radiological, nuclear, or other national security capabilities.\n\nIf enacted, the Commerce Department will publicly report its findings and compare the adoption, cost, capabilities, and performance of foreign adversary models with qualified American open models.\n\n\u201cThe race for AI leadership is a race America cannot afford to lose. Communist China is working every day to outcompete us, steal American innovation, and expand its technological influence around the world. We should be making it easier for our nation's innovators and startups to build, compete, and lead. This bill helps unleash American open-source AI while implementing common sense consumer protections. It also creates safeguard to identify and counter national security threats from foreign adversaries. America built the technologies that changed the world, and we\u2019re going to keep leading.\u201d \u2013\u2013 Congressman Gabe Evans\n\nThe Open-Source AI Leadership Act will:\n\nSupport American open-source AI by identifying and addressing barriers that prevent U.S.-developed models from being adopted and used.\n\nConnect government with American innovators, including startups, to strengthen adoption of U.S. open AI models.\n\nExpose risks from foreign adversary AI, including threats to Americans\u2019 data, cybersecurity, supply chains, national security, and economic security.\n\nIncrease transparency by requiring public assessments of leading foreign adversary AI models and comparisons with American alternatives.\n\nThe legislation defines qualified open models as those developed and made available by U.S. persons and excludes models developed or made available by covered nations or entities controlled by them."
+    },
+    {
+      "title": "Landsman Introduces Bipartisan Legislation to Keep AI from Making Health Care Decisions",
+      "date": "2026-09-01",
+      "member": "Greg Landsman",
+      "party": "Democrat",
+      "state": "OH",
+      "chamber": "House",
+      "url": "https://landsman.house.gov/posts/landsman-introduces-bipartisan-legislation-to-keep-ai-from-making-health-care-decisions",
+      "keywords_found": [
+        "AI",
+        "artificial intelligence"
+      ],
+      "snippets": [
+        "ssman Buddy Carter (R-GA-01), Congresswoman Kim Schrier (D-WA-08), and Congressman Tom Barrett (R-MI-07) introduced bipartisan legislation to prevent artificial intelligence from making health care decisions that should be made by qualified health care professionals.\n\nHealth care systems are increasingly using artificial",
+        "ntelligence from making health care decisions that should be made by qualified health care professionals.\n\nHealth care systems are increasingly using artificial intelligence (AI) to evaluate claims and determine if certain health care for patients is \u201cmedical necessity. This has led to denials of claims \u2013 impacting mental",
+        "ealth care decisions that should be made by qualified health care professionals.\n\nHealth care systems are increasingly using artificial intelligence (AI) to evaluate claims and determine if certain health care for patients is \u201cmedical necessity. This has led to denials of claims \u2013 impacting mental hea"
+      ],
+      "text": "Cincinnati, OH \u2013 Today, Congressman Greg Landsman (D-OH-01), Congressman Buddy Carter (R-GA-01), Congresswoman Kim Schrier (D-WA-08), and Congressman Tom Barrett (R-MI-07) introduced bipartisan legislation to prevent artificial intelligence from making health care decisions that should be made by qualified health care professionals.\n\nHealth care systems are increasingly using artificial intelligence (AI) to evaluate claims and determine if certain health care for patients is \u201cmedical necessity. This has led to denials of claims \u2013 impacting mental health coverage, cancer treatment, hospital stays, and more.\n\nIn response, Representatives Landsman, Carter, Schrier, and Barrett introduced the bipartisan Doctors Not AI Act \u2013 legislation to ensure medical decisions are made by a health professional, not AI.\n\nThe Doctor\u2019s Not AI Act would:\n\n1. Ensure AI is only used in a Supporting Role\n\nPrevents AI from making or issuing harmful determinations involving medical judgment.\n\nAllows insurers to use AI technology to assist with processing claims.\n\nRequires that denials based on medical necessity be made by a licensed health care professional with appropriate expertise.\n\n2. Protect Independent Clinical Judgment\n\nRequires health professionals to independently review each patient\u2019s individual medical circumstances.\n\n3. Increase Transparency\n\nRequires disclosure when AI is used in the review process and must be included in the administrative record.\n\nGives patients the right to know if AI has played a role in their insurance denial.\n\n4. Protects Access to Mental Health Care\n\nHelps prevent AI from unfairly denying or limiting mental health and substance use disorder care.\n\nCongressman Landsman:\n\n\u201cWhen a computer system is making decisions about health care, people will get hurt. We have to make sure health care professionals remain the decision makers.If not, folks will be left with massive bills, their health getting worse, or even life-threatening consequences.\u201d\n\nCongressman Carter:\n\n\u201cEvery patient\u2019s medical needs are unique and decisions about their care require the judgment of a qualified health care professional, not an algorithm. While AI can help make the claims process more efficient, it should never have the final say in denying someone access to medically necessary care. I am proud to co-lead the Doctors Not AI Act to put patients first, preserve independent clinical judgment, and bring greater transparency and accountability to insurers\u2019 use of AI.\u201d\n\nCongressman Schrier, M.D.:\n\n\u201cIt is critical that doctors, not automated systems or AI-powered models, are in charge of critical healthcare decisions for their patients. We are now seeing insurers implement automated systems that can make dangerous decisions about a patient\u2019s health, coverage, and treatment plans. Medical decisions should be made by health professionals, and we need oversight and transparency now to keep Americans safe and healthy.\u201d\n\nCongressman Barrett:\n\n\u201cArtificial intelligence should never replace the judgment of a doctor. When it comes to someone\u2019s health and well-being, the outcome is too important to leave it up to an algorithm. This bill makes sure doctors \u2014 not AI \u2014 remain responsible for determining what care patients need while bringing greater transparency to the use of these technologies in health insurance.\u201d\n\nCraig Obey, Senior Vice President of Federal Affairs at Inseparable\n\n\u201cInsurance coverage decisions that affect someone\u2019s mental healthcare, cancer treatment, or hospital stay should never be dictated by an algorithm. AI should be used responsibly and only as a supplementary tool, not substitute for the informed judgment of trained clinicians about the care patients need. The DNAI Act will ensure that patients are protected through a more transparent, fair, and honest system.\u201d\n\nRead the bill text HERE.\n\n###"
+    },
+    {
+      "title": "Scalise: Democrats' Socialist Agenda Means Higher Costs for American Families",
+      "date": "2026-09-01",
+      "member": "Steve Scalise",
+      "party": "Republican",
+      "state": "LA",
+      "chamber": "House",
+      "url": "https://scalise.house.gov/press-releases/scalise-democrats-socialist-agenda-means-higher-costs-for-american-families",
+      "keywords_found": [
+        "data center"
+      ],
+      "snippets": [
+        "and protect taxpayers and the Democrats\u2019 continued embrace of a socialist agenda. Leader Scalise also highlighted how communities are benefiting from data center investment and emphasized that decisions about those projects should remain at the local level.\n\nImage\n\nClick here or the image above to view Leader"
+      ],
+      "text": "WASHINGTON, D.C.\u2014This morning, House Majority Leader Steve Scalise (R-La.) joined Fox Business Network\u2019s Mornings with Maria to discuss House Republicans\u2019 work to lower costs and protect taxpayers and the Democrats\u2019 continued embrace of a socialist agenda. Leader Scalise also highlighted how communities are benefiting from data center investment and emphasized that decisions about those projects should remain at the local level.\n\nImage\n\nClick here or the image above to view Leader Scalise's full interview."
+    },
+    {
+      "title": "Congresswoman Schrier Introduces Bipartisan Legislation to Keep AI from Making Health Care Decisions",
+      "date": "2026-09-01",
+      "member": "Kim Schrier",
+      "party": "Democrat",
+      "state": "WA",
+      "chamber": "House",
+      "url": "https://schrier.house.gov/media/press-releases/congresswoman-schrier-introduces-bipartisan-legislation-keep-ai-making-health",
+      "keywords_found": [
+        "AI",
+        "artificial intelligence"
+      ],
+      "snippets": [
+        "ssman Greg Landsman (D-OH-01), Congressman Buddy Carter (R-GA-01), and Congressman Tom Barrett (R-MI-07) introduced bipartisan legislation to prevent artificial intelligence from making health care decisions that should be made by qualified health care professionals.\n\nHealth care systems are increasingly using artificial",
+        "ntelligence from making health care decisions that should be made by qualified health care professionals.\n\nHealth care systems are increasingly using artificial intelligence (AI) to evaluate claims and determine if certain health care for patients is \u201cmedical necessity. This has led to denials of claims \u2013 impacting mental",
+        "ealth care decisions that should be made by qualified health care professionals.\n\nHealth care systems are increasingly using artificial intelligence (AI) to evaluate claims and determine if certain health care for patients is \u201cmedical necessity. This has led to denials of claims \u2013 impacting mental hea"
+      ],
+      "text": "WASHINGTON, D.C. - Today, Congresswoman Kim Schrier, M.D. (WA-08), Congressman Greg Landsman (D-OH-01), Congressman Buddy Carter (R-GA-01), and Congressman Tom Barrett (R-MI-07) introduced bipartisan legislation to prevent artificial intelligence from making health care decisions that should be made by qualified health care professionals.\n\nHealth care systems are increasingly using artificial intelligence (AI) to evaluate claims and determine if certain health care for patients is \u201cmedical necessity. This has led to denials of claims \u2013 impacting mental health coverage, cancer treatment, hospital stays, and more.\n\nIn response, Representatives Landsman, Carter, Schrier, and Barrett introduced the bipartisan Doctors Not AI Act \u2013 legislation to ensure medical decisions are made by a health professional, not AI.\n\nThe Doctor\u2019s Not AI Act would:\n\n1. Ensure AI is only used in a Supporting Role\n\nPrevents AI from making or issuing harmful determinations involving medical judgment.\n\nAllows insurers to use AI technology to assist with processing claims.\n\nRequires that denials based on medical necessity be made by a licensed health care professional with appropriate expertise.\n\n2. Protect Independent Clinical Judgment\n\nRequires health professionals to independently review each patient\u2019s individual medical circumstances.\n\n3. Increase Transparency\n\nRequires disclosure when AI is used in the review process and must be included in the administrative record.\n\nGives patients the right to know if AI has played a role in their insurance denial.\n\n4. Protects Access to Mental Health Care\n\nHelps prevent AI from unfairly denying or limiting mental health and substance use disorder care.\n\nCongressman Schrier, M.D.:\n\n\u201cIt is critical that doctors, not automated systems or AI-powered models, are in charge of critical healthcare decisions for their patients. We are now seeing insurers implement automated systems that can make dangerous decisions about a patient\u2019s health, coverage, and treatment plans. Medical decisions should be made by health professionals, and we need oversight and transparency now to keep Americans safe and healthy.\u201d\n\nCongressman Landsman:\n\n\u201cWhen a computer system is making decisions about health care, people will get hurt. We have to make sure health care professionals remain the decision makers. If not, folks will be left with massive bills, their health getting worse, or even life-threatening consequences.\u201d\n\nCongressman Carter:\n\n\u201cEvery patient\u2019s medical needs are unique and decisions about their care require the judgment of a qualified health care professional, not an algorithm. While AI can help make the claims process more efficient, it should never have the final say in denying someone access to medically necessary care. I am proud to co-lead the Doctors Not AI Act to put patients first, preserve independent clinical judgment, and bring greater transparency and accountability to insurers\u2019 use of AI.\u201d\n\nCongressman Barrett:\n\n\u201cArtificial intelligence should never replace the judgment of a doctor. When it comes to someone\u2019s health and well-being, the outcome is too important to leave it up to an algorithm. This bill makes sure doctors \u2014 not AI \u2014 remain responsible for determining what care patients need while bringing greater transparency to the use of these technologies in health insurance.\u201d\n\nCraig Obey, Senior Vice President of Federal Affairs at Inseparable\n\n\u201cInsurance coverage decisions that affect someone\u2019s mental healthcare, cancer treatment, or hospital stay should never be dictated by an algorithm. AI should be used responsibly and only as a supplementary tool, not substitute for the informed judgment of trained clinicians about the care patients need. The DNAI Act will ensure that patients are protected through a more transparent, fair, and honest system.\u201d\n\nRead the bill text HERE.\n\n###"
+    },
+    {
+      "title": "Rep. Dina Titus Secures Victory on Boulder City Data Center",
+      "date": "2026-09-01",
+      "member": "Dina Titus",
+      "party": "Democrat",
+      "state": "NV",
+      "chamber": "House",
+      "url": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5928",
+      "keywords_found": [
+        "data center"
+      ],
+      "snippets": [
+        "Congresswoman Dina Titus today applauded a decision by the Interior Department\u2019s Board of Land Appeals to halt development of a data center on federal land adjacent to Boulder City.\n\n\u201cThe judge ruled for transparency and public accountability in granting a stay based on the BLM\u2019s misuse o",
+        "y and public accountability in granting a stay based on the BLM\u2019s misuse of an environmental impact statement for a solar farm as justification for a data center. The two are vastly different.\u201d Congresswoman Titus said. \u201cI\u2019ve said since day one that this was not only improper but illegal.\u201d\n\nCongresswoman Titus",
+        "July stating, \u201cResidents of Boulder City and other communities in Southern Nevada have a right to know about any proposal to transfer federal land to data center developers. Data centers potentially can affect our scant water resources, energy usage, and the overall environment. The BLM allowed a private devel"
+      ],
+      "text": "Congresswoman Dina Titus today applauded a decision by the Interior Department\u2019s Board of Land Appeals to halt development of a data center on federal land adjacent to Boulder City.\n\n\u201cThe judge ruled for transparency and public accountability in granting a stay based on the BLM\u2019s misuse of an environmental impact statement for a solar farm as justification for a data center. The two are vastly different.\u201d Congresswoman Titus said. \u201cI\u2019ve said since day one that this was not only improper but illegal.\u201d\n\nCongresswoman Titus was the first public official to criticize BLM's rubber stamp of approval, sending a letter to the BLM in early July stating, \u201cResidents of Boulder City and other communities in Southern Nevada have a right to know about any proposal to transfer federal land to data center developers. Data centers potentially can affect our scant water resources, energy usage, and the overall environment. The BLM allowed a private developer to switch from developing a solar farm on city-owned land in Boulder City to building a data center on adjacent federal land without any public review. This is unacceptable.\u201d\n\nBoulder City and several environmental groups filed an appeal with the Interior Department\u2019s Board of Land Appeals. The proposed data center project would be the first data center built on BLM land, setting a precedent for how data center decisions will proceed across Nevada and the Western United States. There are currently 76 built or planned data centers in the Silver State.\n\nAdministrative Judge David Gunter wrote in granting the stay, \"Appellants have made a persuasive showing that BLM violated NEPA and acted arbitrarily or capriciously when it determined that the data center project is 'substantially the same' as the solar plant project for purposes of its NEPA analysis.\""
+    }
+  ]
 }
