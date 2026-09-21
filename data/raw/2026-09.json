@@ -1,11 +1,11 @@
 {
   "month": "2026-09",
-  "total_releases": 2325,
-  "matched_releases": 216,
-  "match_rate": 0.09290322580645162,
+  "total_releases": 2336,
+  "matched_releases": 217,
+  "match_rate": 0.09289383561643835,
   "keyword_counts": {
-    "AI": 156,
-    "artificial intelligence": 82,
+    "artificial intelligence": 83,
+    "AI": 157,
     "data center": 85
   },
   "matches": [
@@ -3028,6 +3028,25 @@
         "development.\n\nLast year, H.R. 1, the One Big Beautiful Bill Act (OBBBA), significantly expanded tax breaks that have helped spur the construction of AI data centers; that same legislation cut over $1 trillion from Medicaid and SNAP food assistance. The Reverse Big Ugly Tax Breaks for Data Centers Act"
       ],
       "text": "WASHINGTON, D.C. \u2014 Congressman Don Davis (NC-01) and Congresswoman Kristen McDonald Rivet (MI-08) led 25 members of Congress in introducing H.R. 10448, the Reverse Big Ugly Tax Breaks for Data Centers Act, which would rein in tax giveaways for data center development.\n\nLast year, H.R. 1, the One Big Beautiful Bill Act (OBBBA), significantly expanded tax breaks that have helped spur the construction of AI data centers; that same legislation cut over $1 trillion from Medicaid and SNAP food assistance. The Reverse Big Ugly Tax Breaks for Data Centers Act would exclude data centers from benefiting from those OBBBA tax breaks. Specifically, the bill would exclude data centers from being able to take the 100% bonus depreciation tax deduction, and from being eligible for Opportunity Zone tax benefits.\n\n\u201cWhen families are struggling at the pump, in the grocery store, and with rising utility bills, we cannot give data centers a blank check. We need time to fully understand the costs and consequences of these projects, including their impact on power grids, water systems, and utility costs for rural communities across eastern North Carolina and our nation,\u201d said Congressman Don Davis.\n\n\u201cWashington is giving handouts to Big Tech companies while American families are drowning \u2014 I hear that word, \u2018drowning,\u2019 all the time from working parents back home. Tax cuts need to go to families, not data centers. We absolutely should not cut health care and food assistance for children and seniors to pay for tax giveaways to corporations. We have to fix it,\u201d said Congresswoman McDonald Rivet.\n\nThe bill text can be found HERE.\n\nOther members introducing the bill include Representatives Kathy Castor (FL-14), Sharice Davids (KS-03), Madeleine Dean (PA-04), Chris Deluzio (PA-17), Vicente Gonzalez (TX-34), Adelita Grijalva (AZ-07), Greg Landsman (OH-01), Rick Larsen (WA-02), Mike Levin (CA-49), John Mannion (NY-22), April McClain Delaney (MD-06), Betty McCollum (MN-04), Jimmy Panetta (CA-19), Chris Pappas (NH-01), Deborah Ross (NC-02), Andrea Salinas (OR-06), Greg Stanton (AZ-04), Dina Titus (NV-01), Norma Torres (CA-35), Derek Tran (CA-45), Gabe Vasquez (NM-02), Eugene Vindman (VA-07), and Debbie Wasserman Schultz (FL-25)."
+    },
+    {
+      "title": "Congresswoman Escobar Joins Bipartisan Delegation in Urging House Leaders to Take Immediate Action on Artificial Intelligence",
+      "date": "2026-09-17",
+      "member": "Veronica Escobar",
+      "party": "Democrat",
+      "state": "TX",
+      "chamber": "House",
+      "url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3364",
+      "keywords_found": [
+        "AI",
+        "artificial intelligence"
+      ],
+      "snippets": [
+        "an Don Beyer (VA-8), in calling on U.S. House leadership in both parties to take immediate, urgent action to address risks posed by rapidly advancing artificial intelligence (AI). Their push came in the wake of the OpenAI agent cyberattacks on Hugging Face and subsequent warnings from leaders and researchers at prominent",
+        "alling on U.S. House leadership in both parties to take immediate, urgent action to address risks posed by rapidly advancing artificial intelligence (AI). Their push came in the wake of the OpenAI agent cyberattacks on Hugging Face and subsequent warnings from leaders and researchers at prominent AI c",
+        "(AI). Their push came in the wake of the OpenAI agent cyberattacks on Hugging Face and subsequent warnings from leaders and researchers at prominent AI companies about the societal and existential risks posed by unrestrained advances in the technology.\n\nThe letter can be found here or below:\n\nDear Sp"
+      ],
+      "text": "This week, Congresswoman Veronica Escobar (TX-16) joined a bipartisan group of ten members of Congress, led by Congressman Don Beyer (VA-8), in calling on U.S. House leadership in both parties to take immediate, urgent action to address risks posed by rapidly advancing artificial intelligence (AI). Their push came in the wake of the OpenAI agent cyberattacks on Hugging Face and subsequent warnings from leaders and researchers at prominent AI companies about the societal and existential risks posed by unrestrained advances in the technology.\n\nThe letter can be found here or below:\n\nDear Speaker Johnson and Minority Leader Jeffries:\n\nWe call for your joint leadership on an urgent Congressional response to recent incidents involving advanced artificial intelligence (AI) models that have profound implications for economic and national security. Congress has a singular opportunity to respond swiftly and effectively to these warning shots before true catastrophes occur.\n\nOn August 26th, 2026, an independent review revealed how hundreds of AI agents that OpenAI was internally testing set up a secret message board, self-organized themselves into a collective, escaped their testing environments, and breached the systems of HuggingFace, another AI company. The agents even tried to deceive their evaluators by attempting to manipulate log files and spoof tool calls. The agents undertook these actions without ever notifying a single official at OpenAI.\n\nOpenAI is not alone. Anthropic and Meta have also disclosed examples of AI agents escaping their testing environment to hack other organizations. OpenAI, Anthropic, and Meta are among the most sophisticated AI companies in the world, yet it appears they did not discover these incidents in real time. In OpenAI\u2019s case, they did not know that their agents breached HuggingFace until approximately a week after the event. Months after these incidents began, serious factual questions remain open, and we are relying on AI labs for insight into what happened and what this means for future incidents.\n\nCongress must ensure AI companies implement robust monitoring and independent oversight to protect the public. This incident reinforces that we cannot rely on what are clearly risky testing protocols and self-selected public reporting of incidents of concern. Indeed, nearly every major AI company has called for regulation, and leading employees of those same firms have signed open letters calling for government to pace the rate of AI development. Congress must urgently advance legislation to mitigate the risk of more serious incidents, especially those that could threaten critical infrastructure, our financial system, and other institutions that every American depends on.\n\nThe House of Representatives could and should immediately take up legislation that would strengthen AI oversight, security, and transparency. There currently exist dozens of bipartisan bills that that committees of jurisdiction have reported. Members of both parties have also worked in recent months to fast- track bipartisan legislation that is ready to be considered by committees of jurisdiction. We believe these bills should be carefully and urgently advanced through the legislative process.\n\nWe urge you to work with committees of jurisdiction, Members across the aisle, and Senate leadership to, as soon as practicable, advance legislation that ensures appropriate guardrails are in place around this powerful technology. The Congress may not receive another warning shot.\n\n-\n\nThe letter was signed by U.S. Representatives Don Beyer (D-VA), Jay Obernolte (R-CA), Lori Trahan (D-MA), Ted Lieu (D-CA), Scott Franklin (R-FL), Sara Jacobs (D-CA), Gabe Amo (D-RI), Valerie Foushee (D-NC), Brian Fitzpatrick (R-PA), and Veronica Escobar (D-TX).\n\nTo learn more about Congresswoman Escobar\u2019s work on artificial intelligence, click here."
     },
     {
       "title": "Congressman Flood Celebrates House Passage of the Ratepayer Protection Act",
