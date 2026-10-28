@@ -1,10 +1,10 @@
 {
   "month": "2026-10",
-  "total_releases": 2254,
-  "matched_releases": 156,
-  "match_rate": 0.06921029281277728,
+  "total_releases": 2321,
+  "matched_releases": 157,
+  "match_rate": 0.06764325721671693,
   "keyword_counts": {
-    "data center": 66,
+    "data center": 67,
     "artificial intelligence": 62,
     "AI": 106
   },
@@ -1966,6 +1966,23 @@
         "ideos in political advertisements.\n\nA recent Quinnipiac poll found that 55 percent of Americans are concerned about the growing risks associated with artificial intelligence, and a recent Blue Rose Research poll found that 74 percent of voters believe AI-generated voices should be prohibited in political calls to protect"
       ],
       "text": "FOR IMMEDIATE RELEASE:\n\nOctober 15, 2026\n\nMEDIA CONTACT:\n\ne: jessica.myers@mail.house.gov\n\nc: 202.913.0126\n\nWASHINGTON, D.C. \u2013 Today, Congresswoman Yvette D. Clarke (NY-09) reintroduced the REAL Political Ads Act, legislation to strengthen transparency and accountability in political advertising by requiring disclosure when generative artificial intelligence (AI) is used to create images or videos in political advertisements.\n\nA recent Quinnipiac poll found that 55 percent of Americans are concerned about the growing risks associated with artificial intelligence, and a recent Blue Rose Research poll found that 74 percent of voters believe AI-generated voices should be prohibited in political calls to protect transparency. Those concerns are compounded in the context of the Federal Communications Commission\u2019s proposal to waive the federal ban on unsolicited AI-generated political robocalls, as well as in the widespread use of AI by the Trump Administration and across the political spectrum to attack political opponents and spread disinformation.\n\n\u201cAs generative AI technologies continue to evolve, clear disclosure standards to preserve transparency are essential to civic engagement. Unfortunately, Congress has failed to keep up the pace with this rapidly advancing technology, leaving voters vulnerable to AI-generated misinformation and disinformation,\u201d said Congresswoman Yvette D. Clarke. \u201cThis legislation would ensure voters know when political ads use AI-generated images and videos. If AI content can manipulate and deceive people on a large scale, it can be a serious threat to our democracy and have devastating consequences for our national and election security.\u201d\n\n\u201cVoters deserve to know that the election information that we read, watch, and listen to is honest. AI makes it far too easy for campaigns to create convincing content intended to mislead voters, and too often it\u2019s at the expense of voters of color and other communities historically pushed to the margins. Congresswoman Clarke\u2019s REAL Political Advertisements Act would help ensure that every voter can make informed decisions based on the facts,\u201d said Alejandra Montoya-Boyer, Vice President of The Leadership Conference\u2019s Center for Civil Rights and Technology.\n\nThis legislation is co-sponsored by: Reps. Debbie Dingell (MI-06), Jim Costa (CA-21), Valerie Foushee (NC-04), and Adelita Grijalva (AZ-07).\n\nThe full bill text can be found here.\n\n###"
+    },
+    {
+      "title": "DelBene Leads Bipartisan Scrutiny of Meta\u2019s Data Center Tax Credits",
+      "date": "2026-10-15",
+      "member": "Suzan K. DelBene",
+      "party": "Democrat",
+      "state": "WA",
+      "chamber": "House",
+      "url": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4497",
+      "keywords_found": [
+        "data center"
+      ],
+      "snippets": [
+        "FL-17), and Mike Thompson (CA-04) led an effort expressing concerns about reports that Meta is seeking to use the federal research tax credit for its data center buildout. In a bipartisan letter to Treasury Secretary Scott Bessent, the lawmakers emphasized that any claims by Meta for the federal research tax c",
+        "cial production begins and duplication of an existing product or process, are excluded. The lawmakers emphasized that the scale or configuration of a data center does not, by itself, establish that its construction and equipment costs qualify.\n\n\u201cAllowing ordinary data-center construction and deployment costs t"
+      ],
+      "text": "Today, Representatives Suzan DelBene (WA-01), Jimmy Panetta (CA-19), Greg Steube (FL-17), and Mike Thompson (CA-04) led an effort expressing concerns about reports that Meta is seeking to use the federal research tax credit for its data center buildout. In a bipartisan letter to Treasury Secretary Scott Bessent, the lawmakers emphasized that any claims by Meta for the federal research tax credit must meet the clearly defined requirements.\n\nCongress established this tax credit in 1981 amid concerns about declining private-sector research investment and U.S. global technological competitiveness. By reducing the cost of qualifying research, the credit is meant to encourage businesses to pursue projects involving technical uncertainty and experimentation, rather than simply purchasing and deploying proven technology.\n\n\u201cWe are concerned by Meta\u2019s apparent position that expenditures associated with its massive data-center buildout qualify for the research credit,\u201d wrote the lawmakers. \u201cThe purchase and deployment of commercially available servers, networking equipment, electrical infrastructure, cooling equipment, and other proven technologies cannot be transformed into qualified research merely because they are installed at unprecedented scale or in new configurations.\u201d\n\nTo qualify for the credit, research must meet a four-part test, including being technological in nature, addressing technical uncertainty, seeking to develop or improve a product or process, and involving a process of experimentation. Certain activities, including research conducted after commercial production begins and duplication of an existing product or process, are excluded. The lawmakers emphasized that the scale or configuration of a data center does not, by itself, establish that its construction and equipment costs qualify.\n\n\u201cAllowing ordinary data-center construction and deployment costs to qualify would significantly expand the research credit beyond its intended purpose and risk converting an incentive for technological experimentation into a subsidy for capital expenditures that companies would undertake in the ordinary course of business,\u201d continued the lawmakers.\n\n\u201cThe research credit is an important tool for promoting American innovation. Protecting its integrity requires ensuring that it rewards genuine research and experimentation rather than subsidizing routine capital investment,\u201d concluded the lawmakers.\n\nThe letter was also signed by Representatives Yassamin Ansari (AZ-03), Nanette Barrag\u00e1n (CA-44), Donald Beyer (VA-08), Joe Courtney (CT-02), Sharice Davids (KS-03), Danny Davis (IL-07), Veronica Escobar (TX-16), Sylvia Garcia (TX-29), Adelita Grijalva (AZ-07), Val Hoyle (OR-04), Jared Huffman (CA-02), John James (MI-10), Greg Landsman (OH-01), Kristen McDonald Rivet (MI-08), Kevin Mullin (CA-15), Chris Pappas (NH-01), Andrea Salinas (OR-06), Hillary Scholten (MI-03), Terri Sewell (AL-07), Victoria Spartz (IN-05), Lori Trahan (MA-03), and Nikema Williams (GA-05).\n\nThe full text of the letter is available here."
     },
     {
       "title": "Rep. Gluesenkamp Perez Introduces Legislation to Target Scammers who Prey on Older Americans",
