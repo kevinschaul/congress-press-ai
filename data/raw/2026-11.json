@@ -1,8 +1,31 @@
 {
   "month": "2026-11",
-  "total_releases": 54,
-  "matched_releases": 0,
-  "match_rate": 0.0,
-  "keyword_counts": {},
-  "matches": []
+  "total_releases": 70,
+  "matched_releases": 1,
+  "match_rate": 0.014285714285714285,
+  "keyword_counts": {
+    "AI": 1,
+    "artificial intelligence": 1
+  },
+  "matches": [
+    {
+      "title": "Balint, Warren, Colleagues Demand Answers from McDonald\u2019s on Whether AI Pricing Tools are Raising Prices and Facilitating Collusion",
+      "date": "2026-11-03",
+      "member": "Becca Balint",
+      "party": "Democrat",
+      "state": "VT",
+      "chamber": "House",
+      "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=858",
+      "keywords_found": [
+        "AI",
+        "artificial intelligence"
+      ],
+      "snippets": [
+        "rust and U.S. Senator Elizabeth Warren (D-Mass.) demanded answers from McDonald\u2019s President and CEO Chris Kempczinski about how the company generates AI-driven pricing recommendations, whether McDonald\u2019s pressures franchisees to follow them, and how the company assesses the technology\u2019s potential harm",
+        "m, and how the company assesses the technology\u2019s potential harm to consumers and competition. The letter came after reports that the company is using artificial intelligence (AI) to determine the \u201coptimal price\u201d for individual menu items at each of its locations and pushing franchisees to adopt these AI-based prices.\n\n\u201cWe",
+        "sesses the technology\u2019s potential harm to consumers and competition. The letter came after reports that the company is using artificial intelligence (AI) to determine the \u201coptimal price\u201d for individual menu items at each of its locations and pushing franchisees to adopt these AI-based prices.\n\n\u201cWe are"
+      ],
+      "text": "Text of Letter (PDF)\n\nWashington, D.C. \u2014 Representative Becca Balint (VT-AL), a member of the House Subcommittee on the Administrative State, Regulatory Reform, and Antitrust and U.S. Senator Elizabeth Warren (D-Mass.) demanded answers from McDonald\u2019s President and CEO Chris Kempczinski about how the company generates AI-driven pricing recommendations, whether McDonald\u2019s pressures franchisees to follow them, and how the company assesses the technology\u2019s potential harm to consumers and competition. The letter came after reports that the company is using artificial intelligence (AI) to determine the \u201coptimal price\u201d for individual menu items at each of its locations and pushing franchisees to adopt these AI-based prices.\n\n\u201cWe are concerned that McDonald\u2019s may be using AI to squeeze consumers into paying higher prices, and that its AI pricing tools may facilitate collusion between franchisees who should be operating as competitors,\u201d wrote the lawmakers.\n\nU.S. Representatives Greg Casar (D-Texas), Jes\u00fas \u201cChuy\u201d Garc\u00eda (D-Ill.), and Mary Gay Scanlon (D-Pa.) also signed the letter.\n\nAccording to recent reports, McDonald\u2019s has developed an AI-based pricing tool that it may be using to recommend specific prices for each individual store, building off the massive trove of consumer data that Amazon has collected through its loyalty program and mobile app. For example, two McDonald\u2019s-operated restaurants just two miles apart in Fresno, California reportedly charged prices that differed by as much as 21 percent for the same menu items. The lawmakers raised particular concerns about McDonald\u2019s use of AI-based pricing at a time when food prices are rising nationwide and particularly at McDonald\u2019s. One report found that certain McDonald\u2019s menu prices doubled between 2014 and 2024, rising more than three times as fast as overall inflation and driving away customers who previously relied on McDonald\u2019s for an affordable meal.\n\n\u201cWe are concerned that McDonald\u2019s is using its extensive consumer data and algorithmic pricing tools to unfairly raise prices on consumers who are already struggling with high food and dining costs,\u201d wrote the lawmakers.\n\nThe lawmakers also questioned McDonald\u2019s for reportedly putting pressure on franchisees to adopt its pricing recommendations, including through new business standards and potential consequences for franchise renewals. They warned that encouraging competing franchisees to rely on a shared pricing tool informed by nonpublic data could undermine independent pricing decisions and raise antitrust concerns.\n\n\u201cWhile McDonald\u2019s asserts that using data and analytics to inform pricing is a standard business practice, pressuring competing franchisees to use a shared AI pricing tool built on nonpublic data is not a standard business practice, but rather a potential antitrust issue,\u201d continued the lawmakers.\n\nThe lawmakers requested answers by November 16, 2026, on the data and algorithms used to generate pricing recommendations, the extent to which franchisees adopt those recommendations, the pressure McDonald\u2019s places on franchisees to comply, and the company\u2019s assessment of potential antitrust risks.\n\n###"
+    }
+  ]
 }
